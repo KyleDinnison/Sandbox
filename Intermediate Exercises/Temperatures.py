@@ -36,10 +36,4 @@ def celsius_calc():
     celsius = 5 / 9 * (fahrenheit - 32)
     print("Result: {:.2f} C".format(celsius))
 
-
-
-
-
-
-
 main()
